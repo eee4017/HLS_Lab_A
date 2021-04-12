@@ -3,6 +3,7 @@
 
 This repository is contructed as below. There are three versions of code:
 + `fixed` contains a Radix-2 FFT using ap_fixed
++ `float` contains a Radix-2 FFT using IEEE 754 double
 
 ```
 .
@@ -24,8 +25,6 @@ This repository is contructed as below. There are three versions of code:
 │       ├── utils.cpp
 │       └── utils.h
 └── README.md
-
-5 directories, 13 files
 ```
 
 
